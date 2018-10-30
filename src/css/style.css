@@ -1,0 +1,294 @@
+html {
+
+    width: 100% !important;
+}
+body{
+    padding-bottom: 150px;
+}
+
+
+.sdf_jh_deer {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9999 !important
+}
+.loo_et{
+    width: 120px;
+}
+.sdf_jh_deert {
+    width: 454px;
+    padding: 10px 20px 30px 20px;
+    margin: auto;
+}
+
+.msd_for_rt {
+    margin: auto;
+    width: 300px;
+    margin-top: 10px;
+}
+
+.f_df_ert {
+    border-top: 1px solid #606060;
+
+}
+
+.f_df_ert span {
+    color: #606060;
+    font-size: 12px;
+    padding: 10px;
+    position: relative;
+    top: -12px;
+    background: #fff;
+}
+
+.df_erjh_deer i.dx {
+    font-size: 36px;
+}
+
+.df_erjh_deer i.dx.icon-weixin {
+    color: #00DC21
+}
+
+.df_erjh_deer i.dx.icon-qqmw {
+    color: #2CADEE
+}
+
+.df_erjh_deer i.dx.icon-zhifubao {
+    color: #00AAEE
+}
+
+    .dsf_jh_dfrt{
+        border-radius: 50%;
+        background: #0C9FF5;
+        width: 4px;
+        height: 4px;
+        display:inline-block;
+         margin-right: 6px;
+        position: relative;
+        bottom: 4px;
+    }
+.df_erjh_deer i.dx.icon-weibo {
+    color: #E32428;
+}
+
+.dsf_ddf_detrt {
+    font-size: 60px !important;
+}
+
+.df_jh_deert {
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    z-index: 10
+}
+
+.el-dropdown-menu.el-popper {
+    padding: 0px !important
+}
+
+.dsf_deeer {
+    line-height: 2 !important
+}
+
+.dsf_kjj_dser .cell {
+    color: #0099F6;
+    font-size: 12px;
+}
+
+.dsf_kjj_dser th {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+.dsf_kjj_dser tbody td {
+    padding-top: 8px !important;
+    padding-bottom: 5px !important;
+}
+
+.dsf_kjj_dser tbody td .cell {
+    white-space: nowrap;
+    color: #050303 !important;
+}
+
+.icon-star.ab {
+    opacity: 0.4
+}
+
+.dfs_jh_drer {
+    padding: 20px 30px;
+}
+
+.dsf_deeert .el-form-item__label,
+.dsf_deeert .el-input__inner {
+    font-size: 16px;
+}
+
+.dsf_deeert .el-select {
+    width: 100%;
+}
+
+.dsf_jerrt button {
+    width: 160px;
+}
+
+.dsf_j_de button {
+    width: 100%;
+    font-size: 16px;
+}
+
+.sd_jhg_dere {
+    border-left: 3px solid #0099F6;
+    padding-left: 10px;
+}
+
+.sd_jh_deer {
+    margin-top: 20px;
+}
+
+.sd_jh_deer li {
+    line-height: 32px;
+}
+
+.d_h_deert {
+    width: 675px;
+}
+
+.liri {
+    width: 18px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 100;
+}
+
+
+.fenh_sddf {
+    width: 200px;
+    height: 154px;
+}
+
+.fg_deeerert {
+
+
+    line-height: 1.5 !important;
+}
+
+
+
+.df_jh_deeert .el-tabs__item {
+    line-height: 60px;
+    height: 60px;
+    font-size: 18px !important;
+}
+
+.df_jh_deeert .el-tabs__nav-wrap::after,
+.df_jh_deeert .el-tabs__active-bar {
+    height: 1px !important;
+}
+
+
+
+.el-button--primary {
+    background-color: #0099F6;
+    border-color: #0099F6
+}
+
+.df_jh_deeer thead th {
+    background: #0099F6 !important;
+    color: #fff;
+
+
+
+}
+
+.df_jh_deeer thead th .cell {
+    line-height: 1.4 !important;
+    font-family: 'Microsoft YaHei' !important;
+}
+
+.sd_jh_derrt li {
+    box-shadow: 0 0px 4px rgba(0, 0, 0, .2);
+    padding: 15px 20px;
+    background: #fff;
+    position: relative;
+}
+
+
+
+.dsf_kjj_dert {
+    font-size: 12px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.dsf_kjj_dert i.ab {
+    opacity: 0.5;
+
+}
+
+.dfer_ertdrt {
+    min-height: 600px;
+}
+
+.sd_kj_drtit {
+    padding-left: 30px;
+    line-height: 60px;
+}
+
+.sd_kj_drtit span {
+    color: #0099F6;
+    font-size: 18px;
+    border-bottom: 1px solid #0099F6;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.df_jj_Dert {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+}
+
+.sd_kj_Dert {
+    padding-top: 25px;
+    height: 110px;
+    background: #0099F6;
+}
+    .df_deertt {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        z-index: 100;
+        font-size: 22px !important;
+        color: #999
+    }
+    .ss_deeer .el-input__inner {
+        text-indent: 20px !important;
+    }
+.el-tabs__header{
+    position: relative !important
+}
+
+
+.has-gutter th{
+    text-align: center !important;
+    font-size: 13px;
+}
+.el-table .ascending .sort-caret.ascending{
+        border-bottom-color: #fff !important;
+}
+.el-table .descending .sort-caret.descending{
+    border-top-color: #fff !important;
+}
+.el-menu-item.is-active{
+    border-left: 2px solid #409EFF;
+    background: #F8F8F8
+}
+.el-select-dropdown.el-popper{
+z-index: 10000 !important
+}

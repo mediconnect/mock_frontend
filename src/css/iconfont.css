@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "dx";
+    src: url('../assets/fonts/iconfont.ttf?t=15123er90333');
+}
+
+.dx {
+    font-family: "dx" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qqmw:before { content: "\e623"; }
+
+.icon-right:before { content: "\e613"; }
+
+.icon-left:before { content: "\e614"; }
+
+.icon-success:before { content: "\e6d0"; }
+
+.icon-iconset0143:before { content: "\e62a"; }
+
+.icon-down1:before { content: "\e610"; }
+
+.icon-star:before { content: "\e61b"; }
+
+.icon-aixin:before { content: "\e602"; }
+
+.icon-57:before { content: "\e6fa"; }
+
+.icon-success-filling:before { content: "\e640"; }
+
+.icon-weixin:before { content: "\e64f"; }
+
+.icon-up:before { content: "\e65a"; }
+
+.icon-weibo:before { content: "\e63c"; }
+
+.icon-gongxiangtubiaozhuangtaileicaozuolei59:before { content: "\e66c"; }
+
+.icon-close:before { content: "\e62b"; }
+
+.icon-zhifubao:before { content: "\e665"; }
+
+.icon-close1:before { content: "\e604"; }
+
+.icon-down:before { content: "\e6e9"; }
+
+.icon-lingdang:before { content: "\e8c0"; }
+
+.icon-fanyi:before { content: "\e6ba"; }
+
+.icon-icon-test:before { content: "\e603"; }
+
+.icon-ico_mine:before { content: "\e600"; }
+
+.icon-ico_logout:before { content: "\e601"; }
+
+.icon-ico_contact_time1:before { content: "\e609"; }
+
+.icon-ico_contact_mail1:before { content: "\e60a"; }
+
+.icon-ico_contact_wechat1:before { content: "\e60b"; }
+
+.icon-ico_contact_phone1:before { content: "\e60c"; }
+
+.icon-ico_user_appoint:before { content: "\e605"; }
+
+.icon-ico_user_info:before { content: "\e606"; }
+
+.icon-ico_user_hospital:before { content: "\e607"; }
+
+.icon-ico_menu:before { content: "\e608"; }
+
